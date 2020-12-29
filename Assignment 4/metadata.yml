@@ -1,0 +1,14 @@
+---
+:id: 20458104
+:submitters:
+- :name: HARRISON SMITH
+  :email: u0901395@utah.edu
+- :name: Samuel Thomas Hancock
+  :email: u0966409@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-09-19 00:28:31.025399000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-09-18 17:28:31.025399000 Z
+:status: processed
+:score: 83.0

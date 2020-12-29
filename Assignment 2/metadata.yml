@@ -1,0 +1,12 @@
+---
+:id: 19677152
+:submitters:
+- :name: HARRISON SMITH
+  :email: u0901395@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-09-05 00:40:37.563051000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-09-04 17:40:37.563051000 Z
+:status: processed
+:score: 19.0

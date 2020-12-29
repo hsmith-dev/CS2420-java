@@ -1,0 +1,14 @@
+---
+:id: 25288711
+:submitters:
+- :name: BEN MALOHI
+  :email: u1115837@utah.edu
+- :name: HARRISON SMITH
+  :email: u0901395@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-11-21 23:40:26.676838000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-11-21 15:40:26.676838000 Z
+:status: processed
+:score: 90.0
